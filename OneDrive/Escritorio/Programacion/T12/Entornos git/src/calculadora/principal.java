@@ -43,6 +43,11 @@ public class principal {
         
         System.out.println(" Gracias por usar la calculadora...hasta luegooooorrr");
         System.out.println("teamo viktor");
+        System.out.println("teamo viktor");
+        System.out.println("teamo viktor");
+        System.out.println("teamo viktor");
+        System.out.println("teamo viktor");
+        System.out.println("teamo viktor");
         
         sc.close();
     }
